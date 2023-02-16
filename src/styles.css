@@ -1,5 +1,5 @@
 body {
-  background-color: brown;
+  background-color: rgb(238, 230, 236);
   font-family: sans-serif;
 }
 h1 {
@@ -20,7 +20,8 @@ footer {
   max-width: 600px;
   background: white;
   padding: 30px;
-  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.4);
+  box-shadow: rgba(17, 17, 26, 0.1) 0px 8px 24px,
+    rgba(17, 17, 26, 0.1) 0px 16px 56px, rgba(17, 17, 26, 0.1) 0px 24px 80px;
   border-radius: 60px;
   margin: 60px auto;
 }
