@@ -1,11 +1,11 @@
 body {
   background-color: rgb(216, 240, 249);
-  font-family: sans-serif;
-  color: rgb(71, 74, 80);
+  font-family: monospace;
+  color: rgb(41, 44, 49);
 }
 h1 {
   text-align: center;
-  font-family: sans-serif;
+
   font-size: 36px;
 }
 h2 {
@@ -21,8 +21,8 @@ footer {
   max-width: 600px;
   background: white;
   padding: 30px;
-  box-shadow: rgba(17, 17, 26, 0.1) 0px 8px 24px,
-    rgba(17, 17, 26, 0.1) 0px 16px 56px, rgba(17, 17, 26, 0.1) 0px 24px 80px;
+  box-shadow: rgba(40, 40, 155, 0.1) 0px 8px 24px,
+    rgba(48, 48, 177, 0.1) 0px 16px 56px, rgba(30, 30, 169, 0.1) 0px 24px 80px;
   border-radius: 60px;
   margin: 60px auto;
 }
